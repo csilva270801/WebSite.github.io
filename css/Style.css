@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+body{
+    font-family: 'Sono', sans-serif;;
+    overflow-x: hidden;
+}
+
+#menu a {
+    font-size: 18px;
+
+}
+
+.contenedor1{
+    position: relative;
+    left: 10%;
+}
+
+.contenedor2{
+    height: auto;
+    width: auto;
+    border-radius: 25%;
+}
+
+.contenedor3{
+    height: 591px;
+    width: 600px;
+    border-radius: 25%;
+    padding-left: 25px;
+}
+
+.img{
+    background-image: url("/Multimedia/JP.png");
+}
+
+.contenedor4{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.letra{
+    font-size: 100px;
+}
+
+.contenedor5{
+    border-radius: 25%;
+}
+
+.ImgUnicaes{
+    width: 200px;
+    height: 200 px;
+    position: relative;
+    left: 25%;
+}
+
+.contenedor6{
+    position: relative;
+    background-image: url("/Multimedia/Importancia-de-los-Sistema-de-Informacion-en-una-empresa-scaled.jpg");
+    height: 25%;
+    opacity: 1;
+}
+
+.ImgAcademia{
+    position: relative;
+    left:30%;
+}
+
+.contenedor7{
+    text-align: center;
+}
+
+.contenedor8{
+    margin-top: 20%;
+    margin-bottom: 20%;
+    text-align: justify;
+}
+
+.letraRoja{
+    color: #c40000;
+}
+
+.carousel-inner{
+    padding-left: 5%;
+    padding-right: 5%;
+    vertical-align: middle;
+    height: 700px;
+}
+
+.carta{
+    position: absolute;
+    left: 10%;
+    top: 2%;
+    right: 10%;
+    bottom: 5%;
+}
+.cartai{
+    position: absolute;
+    left: 10%;
+    top: 1%;
+    right: 10%;
+    bottom: 5%;
+}
+
+.cartap{
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    top: 1%;
+}
+
+.carta1{
+    background-image: url("/Multimedia/slider1.webp");
+}
+
+.carta2{
+    background-image: url("/Multimedia/slider1.webp");
+}
+
+.carta3{
+    background-image: url("/Multimedia/slider1.webp");
+}
+
+.imagen1{
+    height: 300px;
+}
+
+.contenedor9{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.ultimo{
+    background-color: black;
+}
+
+.fut{
+    position: relative;
+    left: 3%;
+    padding-top: 5px;
+}
